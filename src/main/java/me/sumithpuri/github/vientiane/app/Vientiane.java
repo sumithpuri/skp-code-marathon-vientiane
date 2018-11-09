@@ -55,9 +55,9 @@ public class Vientiane {
 		genericSample.rentBike();
 		genericSample.rentCar();
 		
-		System.out.println("------------------------------------------------------------------------");
-		System.out.println("Refer Codebase  to Understand API Design Using Generics and Advantages");
-		System.out.println("------------------------------------------------------------------------");
+		System.out.println("--------------------------------------------------------------------------");
+		System.out.println("Refer Codebase to Understand API Design Using Generics and its Advantages");
+		System.out.println("--------------------------------------------------------------------------");
 		System.out.println();
 	}
 }
